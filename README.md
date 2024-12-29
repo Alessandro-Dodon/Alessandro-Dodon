@@ -6,11 +6,11 @@ I regularly update this GitHub page with my work and continuously add new materi
 
 ## Projects
 
-- **InflationForecast**: A comprehensive project on forecasting inflation using econometric and machine learning models, such as AR, Lasso, Ridge, Principal Component Regression (PCR), Random Forest, and Vector Autoregression (VAR).
+- 'InflationForecast': A comprehensive project on forecasting inflation using econometric and machine learning models, such as AR, Lasso, Ridge, Principal Component Regression (PCR), Random Forest, and Vector Autoregression (VAR).
 
-- **Progresa**: Policy analysis of the Progresa program, employing techniques like univariate and multivariate regression, logistic regression, Difference-in-Differences (DiD), and Instrumental Variables (IV).
+- 'Progresa': Policy analysis of the Progresa program, employing techniques like univariate and multivariate regression, logistic regression, Difference-in-Differences (DiD), and Instrumental Variables (IV).
 
-- **FinancialCrisis09**: An analytical project on the 2009 financial crisis, featuring descriptive statistics, web scraping, interactive visualizations, and machine learning methods, including cluster analysis and Principal Component Analysis (PCA).
+- 'FinancialCrisis09': An analytical project on the 2009 financial crisis, featuring descriptive statistics, web scraping, interactive visualizations, and machine learning methods, including cluster analysis and Principal Component Analysis (PCA).
 
 ## Contacts
 
