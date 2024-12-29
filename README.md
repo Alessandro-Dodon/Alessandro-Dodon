@@ -8,7 +8,7 @@ I regularly update this GitHub page with my work and add new material. You can f
 
 - `InflationForecast`: Advanced econometric and machine learning models for inflation prediction.
 - `FinancialCrisis09`: Analysis of the 2009 financial crisis using statistical methods and machine learning.
-- `Progresa`: Evaluation of the Progresa program using econometric tools like regression and DiD.
+- `Progresa`: Evaluation of the Progresa program using econometric tools like IV regression and DiD.
 - `Garch`: Custom implementation of GARCH models from scratch, applying Monte Carlo simulations and computing VaR and ES (coming soon).
 
 ## Contacts
