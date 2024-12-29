@@ -1,6 +1,6 @@
 # Welcome!
 
-I am Alessandro Dodon, an MS student in Quantitative Finance at USI Lugano, holding a BS in Economics, Politics, and Social Sciences with a minor in Data Analysis from Unibo Bologna. My academic interests include applied mathematics, econometrics, machine learning applications in economics and finance, simulation techniques, time series forecasting, and Bayesian statistics.
+I am Alessandro Dodon, an MS student in Quantitative Finance at USI Lugano, holding a BS in Economics, Politics, and Social Sciences with a minor in Data Analysis from Unibo Bologna. My academic interests include applied mathematics, econometrics, machine learning applications in economics and finance, simulation techniques and time series forecasting.
 
 I regularly update this GitHub page with my work and add new material. You can find all relevant code, data, and detailed explanations in the respective repositories listed below.
 
