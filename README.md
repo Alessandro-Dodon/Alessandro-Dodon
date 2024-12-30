@@ -13,4 +13,4 @@ I regularly update this GitHub page with my work and add new material. You can f
 
 ## Contacts
 
-For any questions or clarifications about my work or code, feel free to reach out. Contact details are available in my GitHub bio.
+Feel free to reach out with any questions, clarifications, or suggestions. Contact details are in my GitHub bio.
