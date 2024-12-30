@@ -13,4 +13,6 @@ I regularly update this GitHub page with my work and add new material. You can f
 
 ## Contacts
 
-Feel free to reach out with any questions, clarifications, or suggestions. Contact details are in my GitHub bio.
+Feel free to reach out with any questions, clarifications, or suggestions. You can contact me via email at alessandro.dodon@usi.ch or connect with me on LinkedIn.
+
+
