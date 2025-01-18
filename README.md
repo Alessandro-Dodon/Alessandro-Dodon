@@ -2,7 +2,7 @@
 
 I am a MS student in Quantitative Finance at USI Lugano, holding a BS in Economics with a minor in Data Analysis from Unibo Bologna. My academic interests include applied mathematics, machine learning applications in economics and finance and time series econometrics.
 
-I regularly update this GitHub page with my work and add new material. You can find all relevant code, data, and detailed explanations in the respective repositories listed below.
+This GitHub page is a curated collection of my academic projects and personal interests. I regularly update it with my work and add new material. You can find all relevant code, data, and detailed explanations in the respective repositories listed below.
 
 ## Projects
 
