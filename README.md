@@ -6,13 +6,13 @@ This GitHub page is a curated collection of my academic projects and personal in
 
 ## Projects
 
-`InflationForecast` A series of econometric and ML models for inflation prediction.
+`inflation_forecast` A series of econometric and ML models for inflation prediction.
 
-`Garch` Custom implementation of GARCH models from scratch, applying MC simulations and computing VaR and ES.
+`garch` Custom implementation of GARCH models from scratch, applying MC simulations and computing VaR and ES.
 
-`FinancialCrisis09` Analysis of the 2009 financial crisis using extensive descriptive statistics and ML methods.
+`financial_crisis_09` Analysis of the 2009 financial crisis using extensive descriptive statistics and ML methods.
 
-`Progresa` Policy evaluation of the Progresa program using econometric tools like IV regression and DiD.
+`progresa` Policy evaluation of the Progresa program using econometric tools like IV regression and DiD.
 
 ## Contacts
 
