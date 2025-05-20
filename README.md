@@ -1,21 +1,18 @@
 # Welcome!
 
-I am a MS student in Quantitative Finance at USI Lugano, holding a BS in Economics with a minor in Data Analysis from Unibo Bologna. My academic interests include applied mathematics, machine learning applications in economics and finance and time series econometrics.
+I am a Master's student in Quantitative Finance at USI Lugano, with a Bachelor's degree in Economics and a minor in Data Analysis from the University of Bologna.
 
-This GitHub page is a curated collection of my academic projects and personal interests. I regularly update it with my work and add new material. You can find all relevant code, data, and detailed explanations in the respective repositories listed below.
+My academic and research interests include:
+- Data science and machine learning
+- Financial econometrics
+- Asset pricing
+- Risk management
 
-## Projects
+This GitHub page is a curated collection of my academic work and personal projects. I regularly update it with code, documentation, and new material across economics and finance topics.
 
-`inflation_forecast` A series of econometric and ML models for inflation prediction.
+Feel free to explore the repositories, and don’t hesitate to get in touch for questions or collaboration.
 
-`garch` Custom implementation of GARCH models from scratch, applying MC simulations and computing VaR and ES.
+## Contact
 
-`financial_crisis_09` Analysis of the 2009 financial crisis using extensive descriptive statistics and ML methods.
-
-`progresa` Policy evaluation of the Progresa program using econometric tools like IV regression and DiD.
-
-## Contacts
-
-Feel free to reach out with any questions, clarifications, or suggestions. You can contact me via email at alessandro.dodon@usi.ch or connect with me on LinkedIn.
-
-
+📧 alessandro.dodon@usi.ch  
+🔗 [LinkedIn](https://www.linkedin.com/in/alessandro-dodon-123a981a9/)
