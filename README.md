@@ -12,7 +12,7 @@ This GitHub page is a curated collection of my academic work and personal projec
 
 ## Contact
 
-Feel free to explore the repositories, and don’t hesitate to get in touch for questions or collaboration.
+Feel free to explore the repositories below, and don’t hesitate to get in touch for questions or collaboration.
 
 📧 alessandro.dodon@usi.ch  
 🔗 [LinkedIn](https://www.linkedin.com/in/alessandro-dodon-123a981a9/)
