@@ -10,9 +10,9 @@ My academic and research interests include:
 
 This GitHub page is a curated collection of my academic work and personal projects. I regularly update it with code, documentation, and new material across economics and finance topics.
 
-Feel free to explore the repositories, and don’t hesitate to get in touch for questions or collaboration.
-
 ## Contact
+
+Feel free to explore the repositories, and don’t hesitate to get in touch for questions or collaboration.
 
 📧 alessandro.dodon@usi.ch  
 🔗 [LinkedIn](https://www.linkedin.com/in/alessandro-dodon-123a981a9/)
