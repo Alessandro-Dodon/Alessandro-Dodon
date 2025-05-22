@@ -8,8 +8,6 @@ My academic and research interests include:
 - Asset pricing
 - Risk management
 
-This GitHub page is a curated collection of my academic work and personal projects. I regularly update it with code, documentation, and new material across economics and finance topics.
-
 ## Contact
 
 Feel free to explore the repositories below, and don’t hesitate to get in touch for questions or collaboration.
