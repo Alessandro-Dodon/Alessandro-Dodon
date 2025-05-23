@@ -7,6 +7,7 @@ My academic and research interests include:
 - Financial econometrics
 - Asset pricing
 - Risk management
+- Mathematical Finance
 
 ## Contact
 
