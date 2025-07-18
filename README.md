@@ -4,7 +4,7 @@ I am a Master's student in Quantitative Finance at USI Lugano, with a Bachelor's
 
 My academic and research interests include:
 - Data science and machine learning
-- Financial econometrics
+- Econometrics
 - Asset pricing
 - Risk management
 
