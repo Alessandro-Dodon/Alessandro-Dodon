@@ -2,7 +2,7 @@
 
 I am a Master's student in Quantitative Finance at USI Lugano, with a Bachelor's degree in Economics and a minor in Data Analysis from the University of Bologna.
 
-My academic and research interests include:
+My research interests include:
 - Machine learning applications
 - Econometrics
 - Asset pricing
