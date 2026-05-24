@@ -1,6 +1,6 @@
 # Welcome!
 
-I am a Master's student in Quantitative Finance at USI Lugano, with a Bachelor's degree in Economics and a minor in Data Analysis from the University of Bologna.
+I am a Master's graduate in Quantitative Finance at USI Lugano, with a Bachelor's degree in Economics and a minor in Data Analysis from the University of Bologna.
 
 My research interests include:
 - Asset pricing
