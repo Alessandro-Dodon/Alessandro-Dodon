@@ -1,6 +1,6 @@
 # Welcome!
 
-I hold a Master's degree in Quantitative Finance from USI Lugano and a Bachelor's degree in Economics with a minor in Data Analysis from the University of Bologna.
+I hold a Master's degree in Quantitative Finance from USI Lugano & Swiss Finance Institute and a Bachelor's degree in Economics with a minor in Data Analysis from the University of Bologna.
 
 My research interests include:
 - Asset pricing
